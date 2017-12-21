@@ -1,0 +1,5 @@
+.ropeproject
+MNIST_data
+TensorBoard_data_MNIST
+TensorBoard_data_SVHN
+*.mat
